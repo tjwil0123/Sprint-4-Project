@@ -7,3 +7,5 @@ pandas
 streamlit
 plotly.express
 altair
+
+Web app link: https://vehicle-dataset-analysis.onrender.com/
